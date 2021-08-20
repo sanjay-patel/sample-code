@@ -1,0 +1,14 @@
+[nz-icon] {
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+.icons-list > i {
+    cursor: pointer;
+}
+
+.button-list {
+    float: right;
+}
+.button-list > button {
+}
